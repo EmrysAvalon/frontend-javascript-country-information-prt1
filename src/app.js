@@ -44,7 +44,6 @@ async function getCountryData() {
 }
 
 function setCountryColor(region) {
-
     const posibleRegions = ['Africa', 'Americas', 'Asia', 'Europe', 'Oceania']
 
     if (posibleRegions.includes(region)) {
