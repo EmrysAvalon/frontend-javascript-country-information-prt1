@@ -1,0 +1,37 @@
+.africa {
+    color: blue;
+}
+
+.americas {
+    color: green;
+}
+
+.asia {
+    color: red;
+}
+
+.europe {
+    color: yellow;
+}
+
+.oceania {
+    color: purple;
+}
+
+.region-not-found {
+    color: dimgrey;
+}
+
+.population {
+    font-size: small;
+}
+
+li {
+    list-style-type: none;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    /*justify-content: space-between;*/
+}
